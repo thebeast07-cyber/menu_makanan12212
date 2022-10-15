@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MenuMakanan</string>
+
+    <string-array name="nama">
+        <item>Nasi Goreng</item>
+        <item>Bakso</item>
+        <item>Ayam Goreng</item>
+        <item>Ayam Bakar</item>
+        <item>Ayam Geprek</item>
+        <item>Mie Goreng</item>
+        <item>Ikan Bakar</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Nasi Goreng dengan telur + lalapan</item>
+        <item>Bakso dengan isi urat</item>
+        <item>Ayam yang di goreng dengan bumbu khas sendiri + nasi dan lalapan</item>
+        <item>Ayam yang dibakar dan ditambah bumbu khas + nasi dan lalapan</item>
+        <item>Ayam yang digeprek dengan sambal + nasi dan lalapan</item>
+        <item>Mie Goreng menggunakan mie telur dan bumbu khas sendiri + lalapan</item>
+        <item>Ikan Bakar dengan bumbu khas + nasi dan lalapan</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>Rp11.000</item>
+        <item>Rp.13.000</item>
+        <item>Rp14.000</item>
+        <item>Rp16.000</item>
+        <item>Rp12.000</item>
+        <item>Rp10.000</item>
+        <item>Rp30.000</item>
+    </string-array>
+
+
+</resources>
